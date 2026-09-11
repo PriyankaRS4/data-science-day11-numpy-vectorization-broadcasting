@@ -1,0 +1,1 @@
+# data-science-day11-numpy-vectorization-broadcasting
